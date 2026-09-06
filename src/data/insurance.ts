@@ -29,7 +29,7 @@ export const MOCK_INSURANCE_PROTECTION: IInsuranceProtection[] = [
     label: '农户自缴比例',
     value: 40,
     unit: '%',
-    description: '市级财政补贴10%，英德市财政据实结算，农户自缴仅60元/亩',
+    description: '省级补贴35%，市级补贴10%，县级补贴15%，英德市财政据实结算，农户自缴仅60元/亩',
     iconType: 'subsidy',
   },
 ]

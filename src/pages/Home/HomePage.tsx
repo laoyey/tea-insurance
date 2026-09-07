@@ -4,7 +4,6 @@ import Footer from '@/components/Footer'
 import TeaGrain from '@/components/TeaGrain'
 import Hero from '@/components/sections/Hero'
 import ProtectionOverview from '@/components/sections/ProtectionOverview'
-import DevelopmentTimeline from '@/components/sections/DevelopmentTimeline'
 import MediaCoverage from '@/components/sections/MediaCoverage'
 import ClaimTriggers from '@/components/sections/ClaimTriggers'
 import LiabilitySection from '@/components/sections/LiabilitySection'
@@ -26,7 +25,6 @@ export default function HomePage() {
       <main>
         <Hero />
         <ProtectionOverview />
-        <DevelopmentTimeline />
         <MediaCoverage />
         <ClaimTriggers />
         <LiabilitySection />

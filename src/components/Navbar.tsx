@@ -3,7 +3,6 @@ import { Menu, X } from 'lucide-react'
 
 const NAV_ITEMS = [
   { label: '产品保障', href: '#protection' },
-  { label: '发展历程', href: '#timeline' },
   { label: '理赔触发', href: '#triggers' },
   { label: '责任免除', href: '#liability' },
   { label: '赔付计算', href: '#formula' },
